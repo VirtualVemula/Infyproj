@@ -3,7 +3,7 @@ echo  off
 echo "*********************************"
 
 echo "                                  "
-echo "Deleting the folder..."
+echo "Deleting folder is going to be deleted."
 rmdir /Q /S c:\server1
 
 echo "Creating the folder..."
